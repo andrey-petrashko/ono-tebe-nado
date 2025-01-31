@@ -58,9 +58,10 @@ text-underline-offset: 4px;
 .cover__title {
 font-family: Raleway, sans-serif;
 font-size: 100px;
+font-weight: bold ;
 color: #fff;
-position: absolute;
 text-transform: uppercase;
+position: absolute;
 
 }
 
